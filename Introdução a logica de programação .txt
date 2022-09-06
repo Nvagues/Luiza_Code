@@ -1,0 +1,159 @@
+
+Python -Facil de aprender , contem apenas 35 palavras
+Rapido de codificar 
+Possui extensa coleção de biblioteca 
+Valoriza o codigo legível 
+força o codigo identado
+
+Ele fomenta o uso de algoritmos eficientes 
+
+Algoritmo 
+
+Algoritmo é uma estruturação passo a passo como um determinado problema deve ser resolvido de forma não -ambigua 
+
+Código ( precisa especificar o que maquina vai ler 
+
+Pseudo-Codigo 
+
+Fluxograma 
+
+Linguagem interpretada esta mais longe do processador é mais lenta 
+mas é eficente pq ele nos da possibilidade de implementar ferramenta 
+
+Pertencimento - Se esta ou não em uma coleção ( Conjunto)
+Identidade ( busca no endereço de memoria) Quando quer comparar dois objetos 
+
+ate o 255 cria posições de memoria ( não garante isso)
+
+
+Coleções classicas: Listas, sets, frozen sets, diconaries, tuples
+
+o IS ( operadores de indentidade) verifica a memoria 
+
+Não consegue comprar coisas de tipo diferente no Python
+
+= atribuição
+== igual 
+
+none - associada a nada
+inteiro : numero 
+boleano : verdadeiro e falso 
+
+mutaveis ( a referencia do objeto continua o mesmo)  : Listas, byte arrays , sets e dicionarios 
+Imutaveis : Strings, Tuples, bytes
+
+
+não começar com caracteres especiais ou 1
+! - Sinaliza o compilador que aquela variavel é privada 
+
+no pytohn - variavel função e metodo = snake_case ( tudo minusculo espaço coloca underscord) 
+camelCase
+PascalCase - Classe 
+kebab-case
+snake_case - constante mas tudo em maiusculo
+PEP 8 - Define convensões de estilo do Python 
+PEP 20 -Filosofia do Python 
+
+Conjunto não é ordenado e não tem elementos repetidos 
+Dicionario Chave e Valor - pedir informação passando determinada c
+chave ele vai trazer o valor associado 
+
+
+lista - garante a ordem 
+
+Set (mutavel ) copia todos os elementos e add
+Frozen Set  ( so adiciona) 
+
+mais de um elemento é uma coleção 
+
+#coleções 
+lista = [1,2,3,4]
+tuplas = (1,2,"a",4)
+dicionário = {1:'a', 2:'b'}
+
+
+Não reaproveita a estrutura (imutavel)
+
+set = conjunto 
+
+. aparece a documentação 	
+
+Python -Facil de aprender , contem apenas 35 palavras
+Rapido de codificar 
+Possui extensa coleção de biblioteca 
+Valoriza o codigo legível 
+força o codigo identado
+
+Ele fomenta o uso de algoritmos eficientes 
+
+Algoritmo 
+
+Algoritmo é uma estruturação passo a passo como um determinado problema deve ser resolvido de forma não -ambigua 
+
+Código ( precisa especificar o que maquina vai ler 
+
+Pseudo-Codigo 
+
+Fluxograma 
+
+Linguagem interpretada esta mais longe do processador é mais lenta 
+mas é eficente pq ele nos da possibilidade de implementar ferramenta 
+
+Pertencimento - Se esta ou não em uma coleção ( Conjunto)
+Identidade ( busca no endereço de memoria) Quando quer comparar dois objetos 
+
+ate o 255 cria posições de memoria ( não garante isso)
+
+
+Coleções classicas: Listas, sets, frozen sets, diconaries, tuples
+
+o IS ( operadores de indentidade) verifica a memoria 
+
+Não consegue comprar coisas de tipo diferente no Python
+
+= atribuição
+== igual 
+
+none - associada a nada
+inteiro : numero 
+boleano : verdadeiro e falso 
+
+mutaveis ( a referencia do objeto continua o mesmo)  : Listas, byte arrays , sets e dicionarios 
+Imutaveis : Strings, Tuples, bytes
+
+
+não começar com caracteres especiais ou 1
+! - Sinaliza o compilador que aquela variavel é privada 
+
+no pytohn - variavel função e metodo = snake_case ( tudo minusculo espaço coloca underscord) 
+camelCase
+PascalCase - Classe 
+kebab-case
+snake_case - constante mas tudo em maiusculo
+PEP 8 - Define convensões de estilo do Python 
+PEP 20 -Filosofia do Python 
+
+Conjunto não é ordenado e não tem elementos repetidos 
+Dicionario Chave e Valor - pedir informação passando determinada c
+chave ele vai trazer o valor associado 
+
+
+lista - garante a ordem 
+
+Set (mutavel ) copia todos os elementos e add
+Frozen Set  ( so adiciona) 
+
+mais de um elemento é uma coleção 
+
+#coleções 
+lista = [1,2,3,4]
+tuplas = (1,2,"a",4)
+dicionário = {1:'a', 2:'b'}
+
+
+Não reaproveita a estrutura (imutavel)
+
+set = conjunto 
+
+. parece a documentação 	
+

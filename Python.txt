@@ -1,0 +1,228 @@
+Tipos Basicos 
+
+Inteiro - Composto por algaritmos numericos ( tanto negativo como positivo)
+float - Numero quebrado ex: 1.75 / 60.0
+
+Não pode utilizar virgula 
+
+Boleano - Ou verdade ou falso 
+
+Na logica pode ser considerada como 0 ou 1
+
+
+String - Palavras, frases ou textos colocar entre aspas
+
+nome = 'Alyce' - string 
+idade = 13 - int
+altura = 1.75 - float
+feriado = true - bool 
+
+Variavel 
+
+é um nome que se refere a um valor,um comando de atribuição 
+cria uma nova variavel e lhe da um valor 
+São usadas para guardamos valores que serão reutilizados 
+mais tarde no programa 
+
+
+Comentarios
+
+# 
+
+Operadores de atribuição 
+
+São utilizados no momento da atribuição de valores
+a variavel 
+
+operador % = é o resto da divisão 5/2 = 2 % 1
+
+
+
+No Python intepreta o tipo da variavel sem que eu informe
+
+
+Conversão de tipos 
+uso de função definidas que convertem o tipo de dado em outro 
+
+Implicita : O interpretador converte automaticamente , não tem evolvimento do usuario 
+explicita : Feita manualmente
+
+funções no Phyton
+
+
+Lista - é uma coleção ordenada de valores
+cada valor e indentificada por indice
+dentro de colchetes, separada por virgula 
+
+pode criar lista com varios itens e diferentes tipos
+lista vazia
+
+compreensão de lista (loop) 
+
+tuplas são imutaveis - não da para add reover aou alterar seus elementos 
+tipos diferentes de informações, 
+podemos usar quando queremos trabalhar com informações diferentes 
+em uma mesma variavel 
+
+se eu armazenar uma lista dentro da tupla consigo alterar as informações desse objeto 
+Não é feita na estrutura da Tupla apenas no conteudo desse objeto 
+
+Função é uma sequencia de comando que execvuta 
+uma tarefa, principal função é organizar programas em pedaços 
+
+Map 
+Filter e 
+Reduce
+
+Mapear filtrar e reduzir 
+
+Map - Transformar esses itens em um elemento 
+Vaca = Hamburguer 
+
+Filtar ( sou vegetariana so qurro o que for vegano )
+Batata = Batata frita (filtro do o que eu como)
+
+Reduce - reduzir esse caso a um 
+EX : Alguem passando mal onde levo essa pessoa 
+Hospital 
+
+Para fazer funções mais simples ela performa melhor 
+
+Criazr função 
+tres partes (nome, parametro e corpo)
+agrupa uma sequencia de linha que define algum comportamento
+
+Parametros são os nomes dados aos atributos que uma função 
+pode receber, são eles quw definem os argumentos aceitos 
+podendo ter valor ou não 
+
+*args : Lista de argumento variavel em forma de tupla - a função não sa
+sabe quantos argumentos serão passados
+
+
+Kwargs ( dicionario com inumeras chaves)
+
+Decorator ( envolver uma função e modificar o seu compartamento)
+
+Lambdas não pdoem ser nomeadas 
+
+
+
+\ - Instrução que estou passando para o Python 
+or com função aritmetica - prevalece o da esquerda 
+and com função aritmetica -  prevalece o da direita 
+
+Tipos Basicos 
+
+Inteiro - Composto por algaritmos numericos ( tanto negativo como positivo)
+float - Numero quebrado ex: 1.75 / 60.0
+
+Não pode utilizar virgula 
+
+Boleano - Ou verdade ou falso 
+
+Na logica pode ser considerada como 0 ou 1
+
+
+String - Palavras, frases ou textos colocar entre aspas
+
+nome = 'Alyce' - string 
+idade = 13 - int
+altura = 1.75 - float
+feriado = true - bool 
+
+Variavel 
+
+é um nome que se refere a um valor,um comando de atribuição 
+cria uma nova variavel e lhe da um valor 
+São usadas para guardamos valores que serão reutilizados 
+mais tarde no programa 
+
+
+Comentarios
+
+# 
+
+Operadores de atribuição 
+
+São utilizados no momento da atribuição de valores
+a variavel 
+
+operador % = é o resto da divisão 5/2 = 2 % 1
+
+
+
+No Python intepreta o tipo da variavel sem que eu informe
+
+
+Conversão de tipos 
+uso de função definidas que convertem o tipo de dado em outro 
+
+Implicita : O interpretador converte automaticamente , não tem evolvimento do usuario 
+explicita : Feita manualmente
+
+funções no Phyton
+
+
+Lista - é uma coleção ordenada de valores
+cada valor e indentificada por indice
+dentro de colchetes, separada por virgula 
+
+pode criar lista com varios itens e diferentes tipos
+lista vazia
+
+compreensão de lista (loop) 
+
+tuplas são imutaveis - não da para add reover aou alterar seus elementos 
+tipos diferentes de informações, 
+podemos usar quando queremos trabalhar com informações diferentes 
+em uma mesma variavel 
+
+se eu armazenar uma lista dentro da tupla consigo alterar as informações desse objeto 
+Não é feita na estrutura da Tupla apenas no conteudo desse objeto 
+
+Função é uma sequencia de comando que execvuta 
+uma tarefa, principal função é organizar programas em pedaços 
+
+Map 
+Filter e 
+Reduce
+
+Mapear filtrar e reduzir 
+
+Map - Transformar esses itens em um elemento 
+Vaca = Hamburguer 
+
+Filtar ( sou vegetariana so qurro o que for vegano )
+Batata = Batata frita (filtro do o que eu como)
+
+Reduce - reduzir esse caso a um 
+EX : Alguem passando mal onde levo essa pessoa 
+Hospital 
+
+Para fazer funções mais simples ela performa melhor 
+
+Criazr função 
+tres partes (nome, parametro e corpo)
+agrupa uma sequencia de linha que define algum comportamento
+
+Parametros são os nomes dados aos atributos que uma função 
+pode receber, são eles quw definem os argumentos aceitos 
+podendo ter valor ou não 
+
+*args : Lista de argumento variavel em forma de tupla - a função não sa
+sabe quantos argumentos serão passados
+
+
+Kwargs ( dicionario com inumeras chaves)
+
+Decorator ( envolver uma função e modificar o seu compartamento)
+
+Lambdas não pdoem ser nomeadas 
+
+Control KC -comentario de  tudo de uma vez 
+
+No meu é control + # + ;
+pra colocar ou retirar
+
+

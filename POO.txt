@@ -1,0 +1,10 @@
+Classes - São um conjunto de objetos com caracteristicas semelhantes
+EX : obejto = casa
+     classe = um conjunto de tudo que tem na casa ( Planta)
+     Moveis - Atributos e comportamentos 
+     Herança - Quando uma classe herda as propriedades de outra 
+
+     
+     Harry Potter 
+
+     Classe : As casas / 
